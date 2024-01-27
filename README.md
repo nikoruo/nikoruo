@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikoruo
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning CI/CD and containers from Helsinki MOOC and dotnet+angular from udemy
+- 👀 I’m interested in AI and .NET!
+- 🌱 I’m currently working as a junior full stack developer.
 - 📫 How to reach me ...
 
 <!---
